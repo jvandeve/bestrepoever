@@ -2,4 +2,5 @@
 Best Repo Ever
 
 This is a readme file created by Jan
-newbranch1 edit
+this is an edit from branch2
+
